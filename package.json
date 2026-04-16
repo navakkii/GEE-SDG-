@@ -1,0 +1,13 @@
+{
+  "name": "ventureup-ph",
+  "version": "1.0.0",
+  "description": "VentureUp PH — AI-powered business advisor for Filipino entrepreneurs",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": ["philippines", "business", "entrepreneurship", "ai", "startup"],
+  "author": "",
+  "license": "MIT"
+}
